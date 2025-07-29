@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+matplotlib
+plotly
+openai               # if you're using OpenAI API
+ollama               # if using local LLM
+openinterpreter      # optional
+python-dotenv        # if you want to use .env file
+pydantic
+sqlite3
